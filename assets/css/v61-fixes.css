@@ -1,0 +1,24 @@
+/* V61 - mevcut panonun tasarımını değiştirmeden görünüm düzeltmeleri */
+.top{min-width:0;grid-template-columns:minmax(0,1fr) auto auto 50px;gap:16px}
+.top .brand{min-width:0}
+.top .brand>div:nth-child(2){min-width:0}
+.top .brand b{line-height:1.13}
+.top .clock{min-width:148px;white-space:nowrap;text-align:right;flex-shrink:0}
+.top .clock b,.top .clock small{white-space:nowrap}
+.top .weather{flex-shrink:0}
+/* Karbon yerine kullanılan hava kalitesi kartı: küçük kutuda taşmayı önle */
+.top .carbon-card{box-sizing:border-box;min-width:0;max-width:235px;overflow:hidden;flex-shrink:0}
+.top .carbon-card #carbonValue{font-size:clamp(13px,1.1vw,23px);line-height:1.15;white-space:nowrap}
+.top .carbon-card #carbonPeriod{display:block;max-width:100%;font-size:clamp(9px,.65vw,12px);line-height:1.15;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+/* Slider: görüntüyü kapatan büyük yazı paneli yerine küçük, okunabilir alt bant */
+#heroVisual{position:relative}
+#heroVisual.hasImage .heroOverlay,
+.hero #heroVisual.hasImage .heroOverlay{
+ display:block!important;position:absolute;left:16px;right:auto;bottom:14px;top:auto;
+ width:auto;max-width:min(78%,720px);padding:10px 14px;
+ background:rgba(4,19,40,.78);border-radius:10px;
+ box-shadow:0 4px 14px rgba(0,0,0,.2);z-index:2
+}
+#heroVisual .heroOverlay h1{font-size:clamp(18px,1.5vw,29px);line-height:1.12;margin:0;max-width:100%}
+#heroVisual .heroOverlay p{font-size:clamp(11px,.9vw,16px);margin:5px 0 0;line-height:1.25}
+#heroVisual .slide-news-tag{font-size:clamp(9px,.68vw,12px);margin-bottom:4px;letter-spacing:.07em}

@@ -1,0 +1,15 @@
+/* V63: Ana CSS'den SONRA yüklenen, mevcut panoya zarar vermeyen düzeltmeler. */
+/* Pano 1920x1080 ölçekleme sistemini ve kolon boyutlarını değiştirme. */
+.top{min-width:0;grid-template-columns:minmax(0,1fr) auto auto 50px;gap:16px}
+.brand{min-width:0}
+.brand>div{min-width:0}
+.clock{min-width:172px;white-space:nowrap;text-align:right}
+.clock b,.clock small{white-space:nowrap}
+.top .carbon-card{min-width:0;max-width:235px;overflow:hidden;box-sizing:border-box}
+.top .carbon-card #carbonValue{font-size:21px;white-space:nowrap;line-height:1.15}
+.top .carbon-card #carbonPeriod{display:block;font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+/* Gerçek HTML: #heroVisual içinde .heroOverlay. JS'in hasImage sınıfı farklı elemanda olabilir. */
+.hero #heroVisual .heroOverlay{left:18px;bottom:16px;right:auto;top:auto;max-width:76%;padding:10px 14px;background:rgba(5,20,41,.76);border-radius:10px}
+.hero #heroVisual .heroOverlay h1{font-size:26px;line-height:1.18;margin:0}
+.hero #heroVisual .heroOverlay p{font-size:14px;line-height:1.25;margin:5px 0 0}
+.hero #heroVisual .slide-news-tag{display:block;color:#ffe56a;font-size:11px;letter-spacing:.06em;font-weight:800;margin-bottom:4px}

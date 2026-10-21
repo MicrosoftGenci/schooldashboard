@@ -1,0 +1,1 @@
+<?php return array('timezone'=>'Europe/Istanbul','data_file'=>__DIR__.'/data/veriler.json','excel'=>__DIR__.'/data/okul_verileri.xlsx','admin_user'=>'admin','admin_password'=>'admin','refresh_seconds'=>30);

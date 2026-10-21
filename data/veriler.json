@@ -1,0 +1,964 @@
+{
+  "Nobet": [
+    {
+      "Tarih": "2026-10-21",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-21",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-21",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-21",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-22",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-22",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-22",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-22",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-23",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-23",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-23",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-23",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-24",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-24",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-24",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-24",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-25",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-25",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-25",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-25",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-26",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-26",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-26",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-26",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-27",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-27",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-27",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-27",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-28",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-28",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-28",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-28",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-29",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-29",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-29",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-29",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-30",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-30",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-30",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-30",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-10-31",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-10-31",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-10-31",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-10-31",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-01",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-01",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-01",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-01",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-02",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-02",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-02",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-02",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-03",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-03",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-03",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-03",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-04",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-04",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-04",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-04",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-05",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-05",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-05",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-05",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-06",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-06",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-06",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-06",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-07",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-07",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-07",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-07",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-08",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-08",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-08",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-08",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-09",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-09",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-09",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-09",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-10",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-10",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-10",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-10",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-11",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-11",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-11",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-11",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-12",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-12",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-12",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-12",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-13",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-13",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-13",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-13",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-14",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-14",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-14",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-14",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-15",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-15",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-15",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-15",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-16",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-16",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-16",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-16",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-17",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-17",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-17",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-17",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-18",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-18",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-18",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-18",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-19",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-19",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-19",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-19",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    },
+    {
+      "Tarih": "2026-11-20",
+      "Görev Yeri": "Ön Bahçe",
+      "Öğretmen": "Örnek Öğretmen 1"
+    },
+    {
+      "Tarih": "2026-11-20",
+      "Görev Yeri": "Giriş Katı",
+      "Öğretmen": "Örnek Öğretmen 2"
+    },
+    {
+      "Tarih": "2026-11-20",
+      "Görev Yeri": "1. Kat Koridoru",
+      "Öğretmen": "Örnek Öğretmen 3"
+    },
+    {
+      "Tarih": "2026-11-20",
+      "Görev Yeri": "Arka Bahçe",
+      "Öğretmen": "Örnek Öğretmen 4"
+    }
+  ],
+  "Yemek": [
+    {
+      "Tarih": "2026-10-21",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-22",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-23",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-24",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-25",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-26",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-27",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-28",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-29",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-30",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-10-31",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-01",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-02",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-03",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-04",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-05",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-06",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-07",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-08",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-09",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-10",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-11",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-12",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-13",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-14",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-15",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-16",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-17",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-18",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-19",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    },
+    {
+      "Tarih": "2026-11-20",
+      "Kahvaltı": "Peynir, zeytin, yumurta, süt",
+      "Öğle": "Mercimek çorbası, sebzeli tavuk, pilav, ayran",
+      "İkindi": "Meyve ve ev yapımı kek"
+    }
+  ],
+  "DogumGunleri": [
+    {
+      "Ad Soyad": "Örnek Öğrenci 1",
+      "Sınıf": "1/A",
+      "Doğum Tarihi": "2017-10-21"
+    },
+    {
+      "Ad Soyad": "Örnek Öğrenci 2",
+      "Sınıf": "2/A",
+      "Doğum Tarihi": "2017-10-23"
+    },
+    {
+      "Ad Soyad": "Örnek Öğrenci 3",
+      "Sınıf": "3/A",
+      "Doğum Tarihi": "2017-10-25"
+    },
+    {
+      "Ad Soyad": "Örnek Öğrenci 4",
+      "Sınıf": "4/A",
+      "Doğum Tarihi": "2017-10-27"
+    }
+  ],
+  "OnemliGunler": [
+    {
+      "Tarih": "2026-10-22",
+      "Başlık": "Kitap Okuma Günü",
+      "Açıklama": "Temsili etkinlik",
+      "Otomatik": "0"
+    },
+    {
+      "Tarih": "2026-10-24",
+      "Başlık": "Bilim Atölyesi",
+      "Açıklama": "Temsili etkinlik",
+      "Otomatik": "0"
+    },
+    {
+      "Tarih": "2026-10-26",
+      "Başlık": "Spor Şenliği",
+      "Açıklama": "Temsili etkinlik",
+      "Otomatik": "0"
+    },
+    {
+      "Tarih": "2026-10-28",
+      "Başlık": "Resim Sergisi",
+      "Açıklama": "Temsili etkinlik",
+      "Otomatik": "0"
+    }
+  ],
+  "Duyurular": [
+    {
+      "Başlangıç": "2026-10-21",
+      "Bitiş": "2026-11-20",
+      "Metin": "Örnek duyuru: Cuma günü kitap okuma etkinliği yapılacaktır.",
+      "Aktif": "1"
+    }
+  ],
+  "DersSaatleri": [
+    {
+      "Ders": "1",
+      "Başlangıç": "08:30",
+      "Bitiş": "09:10",
+      "Tür": "Normal"
+    },
+    {
+      "Ders": "2",
+      "Başlangıç": "09:25",
+      "Bitiş": "10:05",
+      "Tür": "Normal"
+    },
+    {
+      "Ders": "3",
+      "Başlangıç": "10:15",
+      "Bitiş": "10:55",
+      "Tür": "Normal"
+    },
+    {
+      "Ders": "4",
+      "Başlangıç": "11:05",
+      "Bitiş": "11:45",
+      "Tür": "Normal"
+    },
+    {
+      "Ders": "5",
+      "Başlangıç": "11:55",
+      "Bitiş": "12:35",
+      "Tür": "Normal"
+    },
+    {
+      "Ders": "6",
+      "Başlangıç": "13:25",
+      "Bitiş": "14:05",
+      "Tür": "Normal"
+    },
+    {
+      "Ders": "7",
+      "Başlangıç": "14:15",
+      "Bitiş": "14:55",
+      "Tür": "Normal"
+    },
+    {
+      "Ders": "8",
+      "Başlangıç": "15:10",
+      "Bitiş": "15:50",
+      "Tür": "Normal"
+    },
+    {
+      "Ders": "9",
+      "Başlangıç": "16:05",
+      "Bitiş": "16:45",
+      "Tür": "DYK"
+    },
+    {
+      "Ders": "10",
+      "Başlangıç": "16:55",
+      "Bitiş": "17:35",
+      "Tür": "DYK"
+    }
+  ],
+  "Slider": [
+    {
+      "Başlık": "Öğrenmeye Birlikte Devam Ediyoruz",
+      "Alt Yazı": "Örnek okul televizyon panosu",
+      "Görsel": "",
+      "Süre": "10",
+      "Aktif": "1"
+    },
+    {
+      "Başlık": "Bilim ve Sanat Haftası",
+      "Alt Yazı": "Bu içerik tanıtım amacıyla hazırlanmıştır.",
+      "Görsel": "",
+      "Süre": "10",
+      "Aktif": "1"
+    }
+  ],
+  "Ayarlar": {
+    "Okul Adı": "ÖRNEK OKUL",
+    "Şehir": "Ankara",
+    "Kayan Yazı": "Örnek duyuru: Kitap okuma etkinliğimize tüm öğrencilerimiz davetlidir.",
+    "Slider Süresi (sn)": "8",
+    "Yemek Kaynak URL": "",
+    "Önemli Gün Gösterim Süresi": "10",
+    "Alt Başlık": "DİJİTAL BİLGİ EKRANI",
+    "Günün Mesajı": "Her yeni gün, öğrenmek için yeni bir fırsattır.",
+    "Footer": "TANITIM SÜRÜMÜ • Tüm kişi ve içerikler temsilidir.",
+    "Nöbetçi Başlığı": "Nöbetçi Öğretmenler",
+    "Menü Başlığı": "Günün Menüsü",
+    "Doğum Günü Başlığı": "Doğum Günleri",
+    "Önemli Gün Başlığı": "Yaklaşan Önemli Günler",
+    "Duyuru Başlığı": "DUYURU",
+    "Yenileme Süresi": "15",
+    "Yemek Kaynak Açıklama": ""
+  }
+}
